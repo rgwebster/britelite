@@ -1,0 +1,27 @@
+html, body {
+      height: 100%;
+      margin: 0px;
+    }
+
+    .table {
+      display: table;
+      height: 100%;
+      margin: 0 auto;
+    }
+    .table-cell {
+      display: table-cell;
+      vertical-align: middle;
+    }
+    .centered {
+      background-color: re
+      #plus {
+          font-size: 48px;
+      }
+
+      #instructions {
+          font-size: 48px;
+      }
+
+      .hidden {
+          display: none;
+      }

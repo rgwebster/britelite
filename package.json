@@ -1,0 +1,11 @@
+{
+  "name": "retention-task",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0",
+    "meteor-random": "0.0.3"
+  }
+}
