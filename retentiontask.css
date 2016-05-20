@@ -1,0 +1,62 @@
+html, body {
+      height: 100%;
+      margin: 0px;
+    }
+
+    .table {
+      display: table;
+      height: 100%;
+      margin: 0 auto;
+    }
+    .table-cell {
+      display: table-cell;
+      vertical-align: middle;
+    }
+    .centered {
+      }
+      #plus {
+          font-size: 16px;
+      }
+
+      #instructions {
+          font-size: 16px;
+      }
+
+      .hidden {
+          display: none;
+      }
+
+      /*.responseID:focus {
+    outline: 1px solid transparent;
+     }*/
+
+     .correctA {
+          color: blue;
+     }
+
+     .incorrectA {
+          color: Red;
+     }
+
+     .numTable {
+          display: table;
+          width: 50%;
+          border-collapse: collapse;
+          align-self: center;
+
+     }
+     .numTableRow {
+          display: table-row;
+
+     }
+     .numTableCell {
+          display: table-cell;
+          padding: 1em;
+          border: 1px solid transparent;
+          text-align: center;
+          }
+     .numHeaderCell {
+          display: table-cell;
+          width: 100%;
+          text-align: center;
+          }
